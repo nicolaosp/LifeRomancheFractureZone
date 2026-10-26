@@ -11,7 +11,7 @@ The biogeochemistry evolves two populations of phyto- and zooplanktons, their nu
 
 Runs on a GPU: a few hours are needed to get a few months of simulations. 
 
-![description](Surface_fields_BGC)
+![description](Surface_fields_BGC.jpg)
 
 ## Dependencies
 Julia 1.12
@@ -23,4 +23,3 @@ Nicolaos Petropoulos
 * [NumericalEarth](https://github.com/NumericalEarth)
 * [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/)
 * [OceanBioME](https://oceanbiome.github.io/OceanBioME.jl/stable/)
-
