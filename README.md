@@ -1,6 +1,6 @@
 # LifeRomancheFractureZone
 
-A model of the Atlantic ocean designed during the Schmidth Ocean Instute 'Life at the Mid-Atlantic Ridge fracture zone' research cruise. Part of an effort to better understand the life in the Romanche Fracture Zone. 
+A model of the Atlantic ocean designed during the Schmidt Ocean Instute 'Life at the Mid-Atlantic Ridge fracture zone' research cruise. Part of an effort to better understand the life in the Romanche Fracture Zone. 
 
 Model based on the NumericalEarth.jl framework (cheers to the NumericalEarth team for putting together such an amazing tool!). 
 
@@ -10,6 +10,8 @@ Two models are archived here:
 The biogeochemistry evolves two populations of phyto- and zooplanktons, their nutrients and detritus, carbon and oxygen chemistry.  
 
 Runs on a GPU: a few hours are needed to get a few months of simulations. 
+
+![description](Surface_fields_BGC)
 
 ## Dependencies
 Julia 1.12
