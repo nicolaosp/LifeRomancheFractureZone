@@ -1,6 +1,6 @@
 # LifeRomancheFractureZone
 
-A model of the Atlantic ocean designed during the Schmidt Ocean Instute 'Life at the Mid-Atlantic Ridge fracture zone' research cruise. Part of an effort to better understand the life in the Romanche Fracture Zone. 
+A model of the Atlantic ocean designed during the [Schmidt Ocean Institute](https://www.youtube.com/watch?v=m5-QPN_VJVI) 'Life at the Mid-Atlantic Ridge fracture zone' research cruise. Part of an effort to better understand the life in the Romanche Fracture Zone. 
 
 Model based on the NumericalEarth.jl framework (cheers to the NumericalEarth team for putting together such an amazing tool!). 
 
