@@ -112,10 +112,10 @@ end
 @info "grid $(Nx)×$(Ny)×$(Nz)  ($(POLAR ? "rotated" : "plain") lat-lon)"
 
 # fill in the below with your credentials for NASA Earth Data and Copernicus Marine Data Store
-ENV["ECCO_USERNAME"] = "nicolaos.petropoulos"
-ENV["ECCO_WEBDAV_PASSWORD"] = "ED-Azer-ty;09!"
-ENV["COPERNICUS_USERNAME"] = "npetropoulos96@gmail.com"
-ENV["COPERNICUS_PASSWORD"] = "Copernicus-Azer-ty;09!"
+ENV["ECCO_USERNAME"] = 
+ENV["ECCO_WEBDAV_PASSWORD"] = 
+ENV["COPERNICUS_USERNAME"] = 
+ENV["COPERNICUS_PASSWORD"] = 
 
 # Set these to the directories you want the forcing data to download to: GLORYS is the boundary forcing
 # and JRA55 is the atmospheric forcing
